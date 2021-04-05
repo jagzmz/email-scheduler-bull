@@ -20,7 +20,7 @@
     "eventtool": {
         "creds": {
             "email": "superadmin@eventtool.com",
-            "password": "radiant",
+            "password": "***",
             "agencyId": "__global__"
         },
         "apiUrl": "http://localhost:3070/api"
